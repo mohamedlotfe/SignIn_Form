@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    color:black;
+}
+.page {
+    background-image: url(../image/bg7.jpg);
+    background-size: cover;
+    height: 900px;
+}
+.signin {
+   /* background-color:rgba(225,190,231,.68);
+    */
+    background: linear-gradient(60deg,rgba(225,190,231,.75),rgba(186,104,200,.95));
+    height: 900px;
+    width: 100%;
+}
+.content {
+    
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 100px;
+    height: 700px;
+    padding-top: 30px;
+    font-family: "Roboto Slab","Times New Roman",serif;
+
+}
+.content h2 {
+    font-weight: bold;
+    font-size: 35px;
+}
+.content .info {
+    float: left;
+    margin-top: 35px;
+}
+.info .group {
+        padding-bottom: 25px;
+}
+.info .group h3 {
+    color: #3C4858;
+    font-size: 21px;
+    display: inline-block;
+    padding-right: 7px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.info .group i{
+    font-size: 26px;
+    color: #691e76;
+    padding-right: 7px;
+}
+.info .group p {
+    
+    font-family: "Roboto","Helvetica,Arial",sans-serif;
+    line-height: 0.1;
+    margin-left: 32px;
+    color:  #999;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+.entered {
+        margin-top: 50px;
+    
+
+}
+.entered .socail i{
+
+    padding-left: 20px;
+    font-size: 29px;
+    
+}
+.entered .txtinfo .back {
+    margin-top: 40px;
+}
+
+.entered .txtinfo .back i {
+    font-size: 25px;
+}
+.entered .txtinfo .back input {
+height: 40px;
+}
+.entered .txtinfo .bt {
+
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: #9c27b0;
+    border: none;
+    width: 100;
+    color: white;
+    font-size: 12px;
+    height: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
